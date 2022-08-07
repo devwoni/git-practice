@@ -11,8 +11,22 @@ members:
   - George
   - Tyler
   - Kim
+<<<<<<< HEAD
   - Gamor
   - Nebula
 
   fetch: this
   new: branch
+=======
+<<<<<<< Updated upstream
+  - reset
+  
+  new:branch
+=======
+  - Gamor
+  - Nebula
+  - Stash
+  fetch: this
+  new: branch
+>>>>>>> Stashed changes
+>>>>>>> new-branch
